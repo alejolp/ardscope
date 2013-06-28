@@ -1,0 +1,4 @@
+ardscope
+========
+
+Arduino based oscilloscope
